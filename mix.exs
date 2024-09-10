@@ -40,7 +40,8 @@ defmodule Oidcc.Mixfile do
       {:mock, "~> 0.3.8", only: :test},
       {:ex_doc, "~> 0.29", only: :dev, runtime: false},
       {:credo, "~> 1.7", only: :dev, runtime: false},
-      {:dialyxir, "~> 1.4", only: :dev, runtime: false}
+      {:dialyxir, "~> 1.4", only: :dev, runtime: false},
+      {:igniter, "~> 0.3.34", optional: true}
     ]
   end
 
@@ -74,7 +75,7 @@ defmodule Oidcc.Mixfile do
       source_ref: ref,
       main: "readme",
       extras: ["README.md"],
-      groups_for_modules: [Erlang: [~r/oidcc/], "Elixir": [~r/Oidcc/]],
+      groups_for_modules: [Erlang: [~r/oidcc/], "Elixir": [~r/^Oidcc/]],
       logo: "assets/logo.svg",
       assets: %{"assets" => "assets"}
     ]
