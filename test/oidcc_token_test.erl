@@ -1,3 +1,6 @@
+%% SPDX-FileCopyrightText: 2023 Erlang Ecosystem Foundation
+%% SPDX-License-Identifier: Apache-2.0
+
 -module(oidcc_token_test).
 
 -include_lib("eunit/include/eunit.hrl").

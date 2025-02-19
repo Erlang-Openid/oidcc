@@ -1,3 +1,6 @@
+%% SPDX-FileCopyrightText: 2023 Erlang Ecosystem Foundation
+%% SPDX-License-Identifier: Apache-2.0
+
 case {os:getenv("GITHUB_ACTIONS"), os:getenv("GITHUB_TOKEN")} of
   {"true", Token} when is_list(Token) ->
     CONFIG1 = [{coveralls_repo_token, Token},

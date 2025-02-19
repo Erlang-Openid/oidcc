@@ -1,0 +1,4 @@
+Usage only in conformance with the OpenID Foundation Terms and Conditions for
+Certification of Conformance to an OpenID Connect Conformance Profile:
+
+https://openid.net/mark/

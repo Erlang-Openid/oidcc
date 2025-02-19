@@ -1,3 +1,6 @@
+%% SPDX-FileCopyrightText: 2023 Erlang Ecosystem Foundation
+%% SPDX-License-Identifier: Apache-2.0
+
 -ifndef(OIDCC_TOKEN_INTROSPECTION_HRL).
 
 %% @see https://datatracker.ietf.org/doc/html/rfc7662#section-2.2

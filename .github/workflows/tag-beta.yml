@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2023 Erlang Ecosystem Foundation
+# SPDX-License-Identifier: Apache-2.0
+
 on:
   push:
     tags:
@@ -20,6 +23,16 @@ jobs:
       attestations: write
 
     uses: ./.github/workflows/part_docs.yml
+
+  license:
+    name: "License"
+
+    permissions:
+      id-token: write
+      contents: read
+      attestations: write
+
+    uses: ./.github/workflows/part_license.yml
 
   publish:
     name: "Publish"

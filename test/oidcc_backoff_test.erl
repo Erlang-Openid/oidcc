@@ -1,3 +1,7 @@
+%% SPDX-FileCopyrightText: 2023 Erlang Ecosystem Foundation
+%% SPDX-FileCopyrightText: 2016-2024 Ecto DB Connection Contributors
+%% SPDX-License-Identifier: Apache-2.0
+
 %% Based on https://github.com/elixir-ecto/db_connection/blob/8ef1f2ea54922873590b8939f2dad6b031c5b49c/test/db_connection/backoff_test.exs
 
 -module(oidcc_backoff_test).

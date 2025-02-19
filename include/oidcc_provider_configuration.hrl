@@ -1,3 +1,6 @@
+%% SPDX-FileCopyrightText: 2023 Erlang Ecosystem Foundation
+%% SPDX-License-Identifier: Apache-2.0
+
 -ifndef(oidcc_provider_configuration_HRL).
 
 %% @see https://openid.net/specs/openid-connect-discovery-1_0.html#ProviderMetadata

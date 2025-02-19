@@ -1,0 +1,75 @@
+ERLANG ECOSYSTEM FOUNDATION TRADEMARK POLICY  
+
+This Trademark Policy (“Policy”) governs the use of any logos, trademarks, service marks, and trade names (collectively, the “Marks”) owned by the Erlang Ecosystem Foundation (“EEF” or “we”). By using the Marks, you agree to comply with this Policy.
+
+-------------------------
+1. OWNERSHIP AND SCOPE
+-------------------------
+
+1.1 Ownership  
+All rights, title, and interest in and to the Marks belong exclusively to the EEF. Your use of the Marks inures to the benefit of the EEF.
+
+1.2 Scope of Policy  
+This Policy applies to all uses of the Marks, including digital and print publications, software, advertising, marketing, and other promotional materials.
+
+-------------------------
+2. PERMISSIBLE USE
+-------------------------
+
+2.1 EEF Projects  
+Individuals and entities may use the Marks in projects officially affiliated with or governed by the EEF. If you are unsure whether a project is officially affiliated, please contact eef@erlef.org.
+
+2.2 By Permission  
+You may request explicit written permission from the EEF to use the Marks. To request permission, email eef@erlef.org with details regarding the proposed use. You may not use the Marks until you have received our written permission.
+
+2.3 Nominative Fair Use  
+You may use the Marks only as is necessary to identify or refer to the EEF or its projects (for example, in news articles, product reviews, or scholarly works). This nominative fair use must:
+- Be factual and not misleading,
+- Not imply sponsorship, endorsement, or false association with the EEF,
+- Use only as much of the Mark as is necessary to identify the EEF.
+
+-------------------------
+3. PROHIBITED USES
+-------------------------
+
+3.1 Misrepresentation  
+You may not use the Marks to suggest or imply that you are endorsed by, sponsored by, affiliated with, or otherwise associated with the EEF unless you have explicit written permission.
+
+3.2 Modifications or Derivatives  
+You may not alter the Marks, create derivatives, or incorporate them into another name, logo, or design without prior written approval. For example, changing the fonts, colors, or proportions of an EEF logo is not allowed without permission.
+
+3.3 Confusingly Similar  
+You may not use any mark, design, or logo that is confusingly similar to the Marks in a way that may mislead others into thinking they are part of or endorsed by the EEF.
+
+-------------------------
+4. QUALITY AND USAGE GUIDELINES
+-------------------------
+
+4.1 Quality Standards  
+Any use of the Marks must comply with any brand guidelines or usage standards published by the EEF (if applicable). The EEF reserves the right to review and approve or reject any proposed usage that does not meet our standards.
+
+4.2 Integrity of the Mark  
+You may not display the Marks in a way that is deceptive, objectionable, or damaging to the EEF’s reputation, or in any manner that violates applicable laws or regulations.
+
+-------------------------
+5. TERMINATION OF PERMISSION
+-------------------------
+
+The EEF may revoke permission to use the Marks at any time, for any reason, upon notice. Once permission is revoked, you must immediately discontinue all use of the Marks unless otherwise authorized in writing.
+
+-------------------------
+6. DISCLAIMER AND LIMITATION OF LIABILITY
+-------------------------
+
+The EEF disclaims any warranties that might be construed from this Policy or any other documentation related to the Marks. Under no circumstances will the EEF be held liable to any party for any direct, indirect, special, or other consequential damages arising from use of the Marks.
+
+-------------------------
+7. CONTACT INFORMATION
+-------------------------
+
+For questions, clarifications, or to request permission to use the Marks, please contact:
+
+Erlang Ecosystem Foundation  
+Attn: Trademark Usage  
+Email: eef@erlef.org  
+Website: https://erlef.org

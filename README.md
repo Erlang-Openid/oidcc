@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2023 Erlang Ecosystem Foundation
+SPDX-License-Identifier: Apache-2.0
+-->
+
 <div style="margin-right: 15px; float: left;">
   <img
     align="left"

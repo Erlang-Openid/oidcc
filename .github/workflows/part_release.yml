@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2023 Erlang Ecosystem Foundation
+# SPDX-License-Identifier: Apache-2.0
+
 on:
   workflow_call:
     inputs:
@@ -56,10 +59,19 @@ jobs:
         with:
           name: docs
           path: .
+            
+      - name: "Download SBoM Artifact"
+        uses: actions/download-artifact@fa0a91b85d4f404e444e00e005971372dc801d16 # v4.1.8
+        with:
+          name: sbom
+          path: .
+
+      
       - name: Upload Docs
         env:
           GITHUB_TOKEN: ${{ github.token }}
         run: |
           gh release upload --clobber "${{ inputs.releaseName }}" \
             --repo ${{ github.repository }} \
-            docs.tar.gz*
+            docs.tar.gz* \
+            sbom.spdx*
