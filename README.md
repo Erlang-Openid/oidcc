@@ -138,6 +138,8 @@ A security audit was performed by [SAFE-Erlang-Elixir](https://github.com/SAFE-E
 
 **Please note that the minimum supported Erlang OTP version is OTP26.**
 
+<!-- tabs-open -->
+
 ### Erlang
 
 **directly**
@@ -202,7 +204,19 @@ Supervisor.init(
 )
 ```
 
+**using [`igniter`](https://hex.pm/packages/igniter)**
+
+```bash
+mix oidcc.gen.provider_configuration_worker \
+  --name MyApp.OidccConfigProvider \
+  --issuer https://accounts.google.com
+```
+
+<!-- tabs-close -->
+
 ## Usage
+
+<!-- tabs-open -->
 
 ### Companion libraries
 
@@ -214,8 +228,6 @@ Supervisor.init(
   [`cowboy`](https://hex.pm/packages/cowboy)
 - [`oidcc_plug`](https://hex.pm/packages/oidcc_plug) - Integrations for
   [`plug`](https://hex.pm/packages/plug) and
-  [`phoenix`](https://hex.pm/packages/phoenix)
-- [`phx_gen_oidcc`](https://hex.pm/packages/phx_gen_oidcc) - Setup Generator for
   [`phoenix`](https://hex.pm/packages/phoenix)
 - [`ueberauth_oidcc`](https://hex.pm/packages/ueberauth_oidcc) - Integration for
   [`ueberauth`](https://hex.pm/packages/ueberauth)
@@ -334,3 +346,5 @@ for more details, see https://hexdocs.pm/oidcc/oidcc.html
 ```
 
 for more details, see https://hexdocs.pm/oidcc/Oidcc.html
+
+<!-- tabs-close -->
